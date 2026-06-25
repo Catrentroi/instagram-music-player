@@ -13,7 +13,6 @@
   "dependencies": {
     "@ffmpeg/ffmpeg": "^0.12.15",
     "@ffmpeg/util": "^0.12.2",
-    "html2canvas": "^1.4.1",
-    "instagram-music-player": "file:../../../.gemini/antigravity-ide/scratch/instagram-music-player"
+    "html2canvas": "^1.4.1"
   }
 }
